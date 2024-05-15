@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header{
+    background-image: url('../Assets/Images/banner-bk.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    color: aliceblue; 
+    height: 500px; 
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-wrap: wrap;
+  }
+
+  header > h1{
+    font-size: 4rem;
+  }
