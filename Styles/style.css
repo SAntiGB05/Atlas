@@ -330,6 +330,11 @@
   background-color: rgb(233, 233, 233);
 }
 
+:hover .img-logos > img:not( :hover){
+  opacity: 7;
+  transform: scale(1.2);
+}
+
 .us{
   background-image: url('../Assets/Images/contact-bk.jpg'); 
   background-size: cover; 
