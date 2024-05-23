@@ -250,7 +250,10 @@
   margin: 2rem;
   color: rgb(226, 231, 236);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.div-pricing-2 > p > span{
+  font-size: 3rem;
 }
 
 .div-pricing-2 > p{
@@ -288,7 +291,10 @@
   margin: 2rem;
   color: rgb(8, 21, 37);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.div-pricing-1 > p > span{
+  font-size: 3rem;
 }
 
 .div-pricing-1 > p{
