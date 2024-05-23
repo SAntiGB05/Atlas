@@ -150,7 +150,19 @@
   flex-direction: column;
 }
 
-
+.trapecio{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 90px;
+    padding: 50px 0 50px 0;
+    margin-top: 20px;
+    width: 99vw;
+    height: 60rem;
+    background: linear-gradient(165deg,white 40%, #00FEAC 0%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
 
 .conteiner-section-2{
   width: 100%;
