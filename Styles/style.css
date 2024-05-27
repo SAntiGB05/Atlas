@@ -400,7 +400,6 @@
   align-items: start;
   flex-direction: column;
   color:  rgb(48, 238, 175);
-  color: antiquewhite;
 }
 
 .email > input{
@@ -408,6 +407,7 @@
   height: 2rem;
   background-color: transparent;
   border-color:   rgb(48, 238, 175);
+  color: antiquewhite;
 }
 
 .Message{
